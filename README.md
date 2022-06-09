@@ -1,7 +1,7 @@
 # Yours Sincerely
 A theme with pretty pigments and a particular attention to detail.
 
-My motivation for this project was a struggle to find a warm, low-contrast theme that I liked. This is what i had in mind when searching. It comprises elements of Monokai, Tinacious, and the classic VS Dark.
+I decided on this project after a struggle to find a warm, low-contrast theme to my liking. This is what I had in mind when searching. It comprises elements of Monokai, Tinacious, and the classic VS Dark.
 
 ## Themes
 
@@ -16,6 +16,19 @@ Low-contrast colours with minimal eye strain.
 The polar twin of Sunkissed, focusing on the colder spectrum.
 
 ![](images/moonbeam-ss.png)
+
+## Installation
+
+Download the [theme VSIX file]() and follow the [VSIX installation guide](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix).
+
+Alternatively, you can download Yours Sincerely from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LilyO.yours-sincerely-theme).
+
+Furthermore, you can install the theme directly from Visual Studio Code by opening the opening the [command palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) and executing the following:
+```
+ext install LilyO.yours-sincerely-theme
+```
+
+...or by searching 'Yours Sincerely Theme' in the Extensions tab.
 
 ## Notes
 - A possible future update incorporates a broader range of colour schemes (e.g. purple).
