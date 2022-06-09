@@ -1,0 +1,34 @@
+{
+    "name": "yours-sincerely-theme",
+    "displayName": "Yours Sincerely Theme",
+    "description": "Pretty pigments with a particular attention to detail.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Lily O"
+    },
+    "icon": "images/icon.jpg",
+    "readme": "README.md",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yours Sincerely — Sunkissed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Yours Sincerely-Sunkissed-color-theme.json"
+            },
+            {
+                "label": "Yours Sincerely — Moonbeam",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Yours Sincerely-Moonbeam-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^2.9.1"
+    }
+}
