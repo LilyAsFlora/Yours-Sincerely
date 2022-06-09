@@ -3,6 +3,8 @@ A theme with pretty pigments and a particular attention to detail.
 
 I decided on this project after a struggle to find a warm, low-contrast theme to my liking. This is what I had in mind when searching. It comprises elements of Monokai, Tinacious, and the classic VS Dark.
 
+[View it on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LilyO.yours-sincerely-theme).
+
 ## Themes
 
 ### Sunkissed
