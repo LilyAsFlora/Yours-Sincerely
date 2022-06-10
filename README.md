@@ -21,7 +21,7 @@ The polar twin of Sunkissed, focusing on the colder spectrum.
 
 ## Installation
 
-Download the [theme VSIX file](https://github.com/LilyAsFlora/Yours-Sincerely/blob/master/yours-sincerely-theme-0.0.1.vsix) and follow the [VSIX installation guide](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix).
+Download the [theme VSIX file](https://github.com/LilyAsFlora/Yours-Sincerely/blob/master/yours-sincerely-theme-0.0.2.vsix) and follow the [VSIX installation guide](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix).
 
 Alternatively, you can download Yours Sincerely from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LilyO.yours-sincerely-theme).
 
