@@ -6,7 +6,7 @@
     "author": {
         "name": "Lily O"
     },
-    "icon": "images/icon.jpg",
+    "icon": "images/icon.png",
     "readme": "README.md",
     "engines": {
         "vscode": "^1.67.0"
