@@ -1,5 +1,5 @@
 # Yours Sincerely
-A theme with pretty pigments and a particular attention to detail.
+A theme with pretty pigments and a particular attention to detail 🌇
 
 I decided on this project after a struggle to find a warm, low-contrast theme to my liking. This is what I had in mind when searching. It comprises elements of Monokai, Tinacious, and the classic VS Dark.
 
