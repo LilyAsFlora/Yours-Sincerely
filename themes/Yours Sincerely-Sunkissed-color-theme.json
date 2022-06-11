@@ -1853,8 +1853,9 @@
     "editorBracketHighlight.foreground2": "#a5761e",
     "editorBracketHighlight.foreground3": "#be4d47",
     "editorBracketHighlight.foreground4": "#a12758",
+    "welcomePage.progress.foreground": "#974719",
 
-    "foreground": "#848484",
+    "foreground": "#969696",
     "focusBorder": "#5c5c5c",
     "selection.background": "#585858",
     "scrollbar.shadow": "#0f0f0f",
