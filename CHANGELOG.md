@@ -5,10 +5,11 @@ This project follows [semantic versioning.](https://semver.org/)
 
 ## Contents
 - [Unreleased](#unreleased)
+- [v0.1.3](#v013)
 - [v0.0.2](#v002)
 - [v0.0.1](#v001)
 
-## [Unreleased]
+## [v0.1.3]
 - 🌃 Quoted docstrings now match the colour of comments in Moonbeam.
 - 🌃 Strings in Moonbeam are now italicised as they should. 
 - 🌅 Updated the extension icon.
