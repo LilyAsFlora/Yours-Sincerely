@@ -35,4 +35,4 @@ ext install LilyO.yours-sincerely-theme
 
 ...or by searching 'Yours Sincerely Theme' in the Extensions tab.
 
-Alternatively, download the [theme VSIX file](https://github.com/LilyAsFlora/Yours-Sincerely/blob/master/yours-sincerely-theme-0.1.3.vsix) and follow the [VSIX installation guide](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix).
+Alternatively, download the [theme VSIX file](https://github.com/LilyAsFlora/Yours-Sincerely/blob/master/yours-sincerely-theme-0.1.4.vsix) and follow the [VSIX installation guide](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix).
