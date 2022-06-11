@@ -1053,6 +1053,7 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
+        "fontStyle": "",
         "foreground": "#b65858"
       }
     },
