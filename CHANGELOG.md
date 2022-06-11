@@ -12,7 +12,9 @@ This project follows [semantic versioning.](https://semver.org/)
 - 📄 Added license info to package.json.
 - 📄 Added tags for easier discovery.
 - 💡 Increased brightness of variables in Sunkissed.
+- 💡 Increased brightness of the base foreground.
 - 🎢 Strings in Moonbeam are now italicised as they should. 
+- 🎉 Welcome page progress bars now match the theme's palette.
 
 ## [v0.0.2]
 
