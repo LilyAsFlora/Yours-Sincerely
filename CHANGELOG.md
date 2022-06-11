@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the Yours Sincerely will be documented in this file.
+All notable changes to Yours Sincerely will be documented in this file.
 This project follows [semantic versioning.](https://semver.org/)
 
 ## Contents
