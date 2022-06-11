@@ -13,6 +13,7 @@ This project follows [semantic versioning.](https://semver.org/)
 - 🌃 Strings in Moonbeam are now italicised as they should. 
 - 🌅 Updated the extension icon.
 - 🎉 Welcome page progress bars now match the theme's palette.
+- 🎢 JSON properties are no longer italicised.
 - 💡 Increased brightness of the base foreground.
 - 💡 Increased brightness of variables in Sunkissed.
 - 📄 Added license info to package.json.
