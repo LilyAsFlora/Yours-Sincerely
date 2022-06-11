@@ -5,6 +5,7 @@ This project follows [semantic versioning.](https://semver.org/)
 
 ## [Unreleased]
 - Increased brightness of variables in Sunkissed.
+- Added license info to package.json.
 
 ## [v0.0.2]
 
