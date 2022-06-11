@@ -736,6 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#5e5a94"
       }
     },
