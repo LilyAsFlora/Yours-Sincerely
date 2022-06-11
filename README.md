@@ -1,3 +1,8 @@
+![](https://img.shields.io/github/last-commit/LilyAsFlora/Yours-Sincerely?style=for-the-badge)
+⠀![](https://img.shields.io/github/issues/LilyAsFlora/Yours-Sincerely?style=for-the-badge)
+⠀![](https://img.shields.io/github/license/LilyAsFlora/Yours-Sincerely?style=for-the-badge)
+⠀![](https://img.shields.io/github/package-json/v/LilyAsFlora/Yours-Sincerely?style=for-the-badge)
+
 # Yours Sincerely
 A theme with pretty pigments and a particular attention to detail 🌇
 
