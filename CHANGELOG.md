@@ -9,14 +9,14 @@ This project follows [semantic versioning.](https://semver.org/)
 - [v0.0.1](#v001)
 
 ## [Unreleased]
-- Added license info to package.json.
-- Added tags for easier discovery.
-- Increased brightness of variables in Sunkissed.
-- Strings in Moonbeam are now italicised as they should. 
+- 📄 Added license info to package.json.
+- 📄 Added tags for easier discovery.
+- 💡 Increased brightness of variables in Sunkissed.
+- 🎢 Strings in Moonbeam are now italicised as they should. 
 
 ## [v0.0.2]
 
-- Fixed issues with icon resolution.
+- 💻 Fixed issues with icon resolution.
 
 ## [v0.0.1]
 
