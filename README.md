@@ -21,19 +21,17 @@ The polar twin of Sunkissed, focusing on the colder spectrum.
 
 ## Installation
 
-Download the [theme VSIX file](https://github.com/LilyAsFlora/Yours-Sincerely/blob/master/yours-sincerely-theme-0.0.2.vsix) and follow the [VSIX installation guide](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix).
+You can download Yours Sincerely from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LilyO.yours-sincerely-theme).
 
-Alternatively, you can download Yours Sincerely from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LilyO.yours-sincerely-theme).
-
-Furthermore, you can install the theme directly from Visual Studio Code by opening the opening the [command palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) and executing the following:
+Otherwise, install the theme directly from Visual Studio Code by opening the opening the [command palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) and executing the following:
 ```
 ext install LilyO.yours-sincerely-theme
 ```
 
 ...or by searching 'Yours Sincerely Theme' in the Extensions tab.
 
-## Notes
-- A possible future update incorporates a broader range of colour schemes (e.g. purple).
-- Feedback is appreciated particularly on palette choice and semantic highlighting.
+Alternatively, download the [theme VSIX file](https://github.com/LilyAsFlora/Yours-Sincerely/blob/master/yours-sincerely-theme-0.0.2.vsix) and follow the [VSIX installation guide](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix).
 
+
+## Credit
 Code screenshots from https://github.com/john-smilga/react-projects.
