@@ -9,12 +9,13 @@ This project follows [semantic versioning.](https://semver.org/)
 - [v0.0.1](#v001)
 
 ## [Unreleased]
+- 🌃 Quoted docstrings now match the colour of comments in Moonbeam.
+- 🎉 Welcome page progress bars now match the theme's palette.
+- 🎢 Strings in Moonbeam are now italicised as they should. 
+- 💡 Increased brightness of the base foreground.
+- 💡 Increased brightness of variables in Sunkissed.
 - 📄 Added license info to package.json.
 - 📄 Added tags for easier discovery.
-- 💡 Increased brightness of variables in Sunkissed.
-- 💡 Increased brightness of the base foreground.
-- 🎢 Strings in Moonbeam are now italicised as they should. 
-- 🎉 Welcome page progress bars now match the theme's palette.
 
 ## [v0.0.2]
 
