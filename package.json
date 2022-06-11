@@ -1,16 +1,6 @@
 {
-    "name": "yours-sincerely-theme",
-    "displayName": "Yours Sincerely Theme",
-    "description": "Pretty pigments with a particular attention to detail.",
-    "version": "0.0.2",
-    "license": "SEE LICENSE IN LICENSE",
     "author": {
         "name": "Lily O"
-    },
-    "icon": "images/icon.png",
-    "readme": "README.md",
-    "engines": {
-        "vscode": "^1.67.0"
     },
     "categories": [
         "Themes"
@@ -19,21 +9,31 @@
         "themes": [
             {
                 "label": "Yours Sincerely — Sunkissed",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Yours Sincerely-Sunkissed-color-theme.json"
+                "path": "./themes/Yours Sincerely-Sunkissed-color-theme.json",
+                "uiTheme": "vs-dark"
             },
             {
                 "label": "Yours Sincerely — Moonbeam",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Yours Sincerely-Moonbeam-color-theme.json"
+                "path": "./themes/Yours Sincerely-Moonbeam-color-theme.json",
+                "uiTheme": "vs-dark"
             }
         ]
     },
     "dependencies": {
         "vsce": "^2.9.1"
     },
+    "description": "Pretty pigments with a particular attention to detail.",
+    "displayName": "Yours Sincerely Theme",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "icon": "images/icon.png",
+    "license": "SEE LICENSE IN LICENSE",
+    "name": "yours-sincerely-theme",
+    "publisher": "LilyO",
+    "readme": "README.md",
     "repository": {
         "url": "https://github.com/LilyAsFlora/Yours-Sincerely"
     },
-    "publisher": "LilyO"
+    "version": "0.0.2"
 }
