@@ -16,6 +16,11 @@
                 "label": "Yours Sincerely — Moonbeam",
                 "path": "./themes/Yours Sincerely-Moonbeam-color-theme.json",
                 "uiTheme": "vs-dark"
+            },
+            {
+                "label": "Yours Sincerely — Imperial",
+                "path": "./themes/Yours Sincerely-Imperial-color-theme.json",
+                "uiTheme": "vs-dark"
             }
         ]
     },
