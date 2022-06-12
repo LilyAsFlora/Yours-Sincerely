@@ -9,6 +9,9 @@ This project follows [semantic versioning.](https://semver.org/)
 - [v0.0.2](#v002)
 - [v0.0.1](#v001)
 
+## [Unreleased]
+- 💡 Brightened editor foreground.
+
 ## [v0.1.4]
 - 🌃 Quoted docstrings now match the colour of comments in Moonbeam.
 - 🌃 Strings in Moonbeam are now italicised as they should. 
